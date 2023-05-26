@@ -1,6 +1,6 @@
 object Form4: TForm4
-  Left = 192
-  Top = 125
+  Left = 247
+  Top = 246
   Width = 870
   Height = 450
   Caption = 'Prak2_Kondisional'
@@ -17,34 +17,34 @@ object Form4: TForm4
     Left = 72
     Top = 120
     Width = 88
-    Height = 17
+    Height = 26
     Caption = 'NILAI KEHADIRAN'#13#10
   end
   object TLabel
     Left = 72
     Top = 160
-    Width = 89
+    Width = 63
     Height = 13
     Caption = 'NILAI TUGAS'
   end
   object TLabel
     Left = 72
     Top = 192
-    Width = 89
-    Height = 17
+    Width = 49
+    Height = 13
     Caption = 'NILAI UTS'
   end
   object lbl2: TLabel
     Left = 72
     Top = 232
-    Width = 89
+    Width = 69
     Height = 13
     Caption = 'NILAI HARIAN'
   end
   object lbl3: TLabel
     Left = 72
     Top = 264
-    Width = 89
+    Width = 50
     Height = 13
     Caption = 'NILAI UAS'
   end

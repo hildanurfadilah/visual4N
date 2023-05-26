@@ -1,6 +1,6 @@
 object Form6: TForm6
-  Left = 192
-  Top = 125
+  Left = 358
+  Top = 241
   Width = 799
   Height = 502
   Caption = 'Prak_Grafik1'
